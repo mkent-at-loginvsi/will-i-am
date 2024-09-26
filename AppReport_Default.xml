@@ -1,0 +1,41 @@
+<AppReport>
+	<AppExclusionList>
+		<Item>C:\ProgramData\Automation Machine\Bin\utilities\AMUsageReporter.exe</Item>
+		<Item>C:\ProgramData\Automation Machine\Bin\utilities\AppUsage\Console\AM.Reporting.AppUsage.Client.ConsoleApp.exe</Item>
+		<Item>C:\windows\splwow64.exe</Item>
+		<Item>C:\windows\system32\cleanmgr.exe</Item>
+		<Item>C:\windows\system32\cmd.exe</Item>
+		<Item>C:\windows\system32\conhost.exe</Item>
+		<Item>C:\windows\system32\DllHost.exe</Item>
+		<Item>C:\windows\system32\dwm.exe</Item>
+		<Item>C:\windows\system32\fontdrvhost.exe</Item>
+		<Item>C:\Windows\System32\fsquirt.exe</Item>
+		<Item>C:\windows\system32\gpupdate.exe</Item>
+		<Item>C:\Windows\System32\InstallAgent.exe</Item>
+		<Item>C:\windows\System32\mobsync.exe</Item>
+		<Item>C:\windows\system32\msfeedssync.exe</Item>
+		<Item>C:\windows\System32\rdpclip.exe</Item>
+		<Item>C:\windows\system32\rundll32.exe</Item>
+		<Item>C:\Windows\System32\RuntimeBroker.exe</Item>
+		<Item>C:\windows\system32\SettingSyncHost.exe</Item>
+		<Item>C:\windows\system32\shutdown.exe</Item>
+		<Item>C:\windows\system32\sihost.exe</Item>
+		<Item>C:\Windows\System32\smartscreen.exe</Item>
+		<Item>C:\windows\system32\svchost.exe</Item>
+		<Item>C:\windows\system32\taskhostw.exe</Item>
+		<Item>C:\windows\system32\tlsbln.exe</Item>
+		<Item>C:\windows\system32\TSTheme.exe</Item>
+		<Item>C:\Windows\system32\userinit.exe</Item>
+		<Item>C:\windows\system32\WerFault.exe</Item>
+		<Item>C:\windows\system32\wsmprovhost.exe</Item>
+		<Item>C:\Windows\System32\wuapihost.exe</Item>
+		<Item>C:\windows\SysWoW64\DllHost.exe</Item>
+		<Item>C:\windows\SysWOW64\runonce.exe</Item>
+		<Item>C:\Windows\System32\tasklist.exe</Item>
+		<Item>C:\windows\SysWOW64\tasklist.exe</Item>
+		<Item>C:\WINDOWS\system32\backgroundTaskHost.exe</Item>
+		<Item>C:\WINDOWS\system32\taskhost.exe</Item>
+		<Item>C:\WINDOWS\system32\taskhostex.exe</Item>
+		<Item>C:\WINDOWS\system32\ServerManagerLauncher.exe</Item>
+	</AppExclusionList>
+</AppReport>

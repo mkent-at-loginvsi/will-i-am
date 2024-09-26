@@ -1,0 +1,357 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="11153 -84 1920 1080">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-Login_AM_HOME_02);
+      }
+
+      .cls-11, .cls-12, .cls-13, .cls-2 {
+        fill: #fff;
+      }
+
+      .cls-10, .cls-14, .cls-16, .cls-17, .cls-18, .cls-19, .cls-20, .cls-21, .cls-3, .cls-5, .cls-6, .cls-8 {
+        fill: #616161;
+      }
+
+      .cls-3 {
+        font-size: 14px;
+        font-family: HelveticaNeue, Helvetica Neue;
+      }
+
+      .cls-4 {
+        fill: #424242;
+        font-family: Roboto-Light, Roboto;
+        font-weight: 300;
+      }
+
+      .cls-13, .cls-4 {
+        font-size: 18px;
+      }
+
+      .cls-5 {
+        font-size: 39px;
+        font-family: Roboto-Medium, Roboto;
+        font-weight: 500;
+      }
+
+      .cls-6 {
+        fill-rule: evenodd;
+      }
+
+      .cls-7 {
+        fill: #0f73a5;
+      }
+
+      .cls-8 {
+        stroke: #e5e5e5;
+      }
+
+      .cls-9 {
+        fill: #e5e5e5;
+      }
+
+      .cls-10 {
+        opacity: 0.697;
+      }
+
+      .cls-11 {
+        stroke: #fff;
+        stroke-miterlimit: 10;
+        stroke-width: 2px;
+      }
+
+      .cls-12 {
+        font-size: 9px;
+        opacity: 0.796;
+      }
+
+      .cls-12, .cls-13 {
+        font-family: Roboto-Regular, Roboto;
+      }
+
+      .cls-15 {
+        fill: none;
+      }
+
+      .cls-16 {
+        opacity: 0.703;
+      }
+
+      .cls-17 {
+        opacity: 0.698;
+      }
+
+      .cls-18 {
+        opacity: 0.699;
+      }
+
+      .cls-19 {
+        opacity: 0.703;
+      }
+
+      .cls-20 {
+        opacity: 0.697;
+      }
+
+      .cls-21 {
+        opacity: 0.701;
+      }
+
+      .cls-22 {
+        stroke: none;
+      }
+
+      .cls-23 {
+        fill: #e4e4e4;
+      }
+
+      .cls-24 {
+        filter: url(#ui_card_light-12);
+      }
+
+      .cls-25 {
+        filter: url(#ui_card_light-11);
+      }
+
+      .cls-26 {
+        filter: url(#ui_card_light-10);
+      }
+
+      .cls-27 {
+        filter: url(#ui_card_light-9);
+      }
+
+      .cls-28 {
+        filter: url(#ui_card_light-8);
+      }
+
+      .cls-29 {
+        filter: url(#ui_card_light-7);
+      }
+
+      .cls-30 {
+        filter: url(#ui_card_light-6);
+      }
+
+      .cls-31 {
+        filter: url(#ui_card_light-5);
+      }
+
+      .cls-32 {
+        filter: url(#ui_card_light-4);
+      }
+
+      .cls-33 {
+        filter: url(#Rectangle_27790);
+      }
+
+      .cls-34 {
+        filter: url(#ui_card_light-3);
+      }
+
+      .cls-35 {
+        filter: url(#ui_card_light-2);
+      }
+
+      .cls-36 {
+        filter: url(#ui_card_light);
+      }
+    </style>
+    <filter id="ui_card_light" x="11881" y="144" width="232" height="232" filterUnits="userSpaceOnUse">
+      <feOffset dy="2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1" result="blur"/>
+      <feFlood flood-opacity="0.498"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="ui_card_light-2" x="11881" y="376" width="232" height="232" filterUnits="userSpaceOnUse">
+      <feOffset dy="2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1" result="blur-2"/>
+      <feFlood flood-opacity="0.498"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="ui_card_light-3" x="12113" y="144" width="232" height="232" filterUnits="userSpaceOnUse">
+      <feOffset dy="2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1" result="blur-3"/>
+      <feFlood flood-opacity="0.498"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_27790" x="13034" y="-73" width="30" height="30" filterUnits="userSpaceOnUse">
+      <feOffset dy="2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1" result="blur-4"/>
+      <feFlood flood-opacity="0.502"/>
+      <feComposite operator="in" in2="blur-4"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="ui_card_light-4" x="11595" y="144" width="232" height="232" filterUnits="userSpaceOnUse">
+      <feOffset dy="2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1" result="blur-5"/>
+      <feFlood flood-opacity="0.498"/>
+      <feComposite operator="in" in2="blur-5"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="ui_card_light-5" x="11363" y="144" width="232" height="232" filterUnits="userSpaceOnUse">
+      <feOffset dy="2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1" result="blur-6"/>
+      <feFlood flood-opacity="0.498"/>
+      <feComposite operator="in" in2="blur-6"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="ui_card_light-6" x="12399" y="144" width="232" height="232" filterUnits="userSpaceOnUse">
+      <feOffset dy="2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1" result="blur-7"/>
+      <feFlood flood-opacity="0.498"/>
+      <feComposite operator="in" in2="blur-7"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="ui_card_light-7" x="12399" y="376" width="232" height="232" filterUnits="userSpaceOnUse">
+      <feOffset dy="2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1" result="blur-8"/>
+      <feFlood flood-opacity="0.498"/>
+      <feComposite operator="in" in2="blur-8"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="ui_card_light-8" x="12399" y="608" width="232" height="232" filterUnits="userSpaceOnUse">
+      <feOffset dy="2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1" result="blur-9"/>
+      <feFlood flood-opacity="0.498"/>
+      <feComposite operator="in" in2="blur-9"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="ui_card_light-9" x="12631" y="144" width="232" height="232" filterUnits="userSpaceOnUse">
+      <feOffset dy="2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1" result="blur-10"/>
+      <feFlood flood-opacity="0.498"/>
+      <feComposite operator="in" in2="blur-10"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="ui_card_light-10" x="12631" y="376" width="232" height="232" filterUnits="userSpaceOnUse">
+      <feOffset dy="2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1" result="blur-11"/>
+      <feFlood flood-opacity="0.498"/>
+      <feComposite operator="in" in2="blur-11"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="ui_card_light-11" x="12631" y="608" width="232" height="119" filterUnits="userSpaceOnUse">
+      <feOffset dy="2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1" result="blur-12"/>
+      <feFlood flood-opacity="0.498"/>
+      <feComposite operator="in" in2="blur-12"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="ui_card_light-12" x="12631" y="724" width="232" height="116" filterUnits="userSpaceOnUse">
+      <feOffset dy="2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1" result="blur-13"/>
+      <feFlood flood-opacity="0.498"/>
+      <feComposite operator="in" in2="blur-13"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-Login_AM_HOME_02">
+      <rect x="11153" y="-84" width="1920" height="1080"/>
+    </clipPath>
+  </defs>
+  <g id="Login_AM_HOME_02" data-name="Login AM HOME 02" class="cls-1">
+    <rect class="cls-23" x="11153" y="-84" width="1920" height="1080"/>
+    <g class="cls-36" transform="matrix(1, 0, 0, 1, 0, 0)">
+      <rect id="ui_card_light-13" data-name="ui card light" class="cls-2" width="226" height="226" rx="2" transform="translate(11884 145)"/>
+    </g>
+    <text id="DASHBOARD" class="cls-3" transform="translate(11902 178)"><tspan x="0" y="0">APPLICATION REPORT</tspan></text>
+    <text id="DASHBOARD-2" data-name="DASHBOARD" class="cls-4" transform="translate(11884 139)"><tspan x="0" y="0">REPORTING</tspan></text>
+    <text id="DASHBOARD-3" data-name="DASHBOARD" class="cls-4" transform="translate(12402 139)"><tspan x="0" y="0">GLOBAL</tspan></text>
+    <text id="group" class="cls-5" transform="translate(11366 54)"><tspan x="0" y="0">Hi Sonny,</tspan></text>
+    <g class="cls-35" transform="matrix(1, 0, 0, 1, 0, 0)">
+      <rect id="ui_card_light-14" data-name="ui card light" class="cls-2" width="226" height="226" rx="2" transform="translate(11884 377)"/>
+    </g>
+    <text id="DASHBOARD-4" data-name="DASHBOARD" class="cls-3" transform="translate(11902 410)"><tspan x="0" y="0">TENANT REPORT</tspan></text>
+    <g class="cls-34" transform="matrix(1, 0, 0, 1, 0, 0)">
+      <rect id="ui_card_light-15" data-name="ui card light" class="cls-2" width="226" height="226" rx="2" transform="translate(12116 145)"/>
+    </g>
+    <text id="DASHBOARD-5" data-name="DASHBOARD" class="cls-4" transform="translate(11500 139)"><tspan x="0" y="0">EnvA</tspan></text>
+    <path id="path" class="cls-6" d="M1920,0H0V48H1920Z" transform="translate(11153 -84)"/>
+    <path id="rectangle-2" class="cls-7" d="M0,2H1920V0H0Z" transform="translate(11153 -36)"/>
+    <text id="DASHBOARD-6" data-name="DASHBOARD" class="cls-3" transform="translate(12134 178)"><tspan x="0" y="0">USER REPORT</tspan></text>
+    <g id="Group_5624" data-name="Group 5624" transform="translate(11252 -206)">
+      <g class="cls-33" transform="matrix(1, 0, 0, 1, -11252, 206)">
+        <g id="Rectangle_27790-2" data-name="Rectangle 27790" class="cls-8" transform="translate(13037 -72)">
+          <rect class="cls-22" width="24" height="24" rx="2"/>
+          <rect class="cls-15" x="0.5" y="0.5" width="23" height="23" rx="1.5"/>
+        </g>
+      </g>
+      <path id="Union_605" data-name="Union 605" class="cls-9" d="M3.306,18A2.924,2.924,0,0,1,.97,16.811,4.38,4.38,0,0,1,0,13.95V4.05A4.381,4.381,0,0,1,.97,1.188,2.925,2.925,0,0,1,3.306,0H6.979a.325.325,0,0,1,.258.133A.485.485,0,0,1,7.347.45q0,.057.011.281t.006.373a2.877,2.877,0,0,1-.035.33.508.508,0,0,1-.115.274.307.307,0,0,1-.235.091H3.306a1.625,1.625,0,0,0-1.3.661A2.432,2.432,0,0,0,1.469,4.05v9.9a2.433,2.433,0,0,0,.539,1.589,1.624,1.624,0,0,0,1.3.661H6.888l.132.014c.088.009.132.023.132.042s.031.044.092.077.088.075.08.126a.441.441,0,0,0,.023.19q0,.056.011.281t.006.373a2.874,2.874,0,0,1-.035.33.509.509,0,0,1-.115.274A.309.309,0,0,1,6.98,18Zm7.2-.717a.97.97,0,0,1-.218-.633V12.6H5.143a.651.651,0,0,1-.517-.267.969.969,0,0,1-.218-.633V6.3a.97.97,0,0,1,.218-.633A.651.651,0,0,1,5.143,5.4h5.143V1.35A.97.97,0,0,1,10.5.717a.633.633,0,0,1,1.033,0l6.245,7.65a1.027,1.027,0,0,1,0,1.266l-6.245,7.65a.633.633,0,0,1-1.033,0Z" transform="translate(1788 137)"/>
+    </g>
+    <path id="chart-bar" class="cls-10" d="M97.656,134.833A2.522,2.522,0,0,1,100,137.49v8.854A2.522,2.522,0,0,1,97.656,149H2.344A2.522,2.522,0,0,1,0,146.344V66.656A2.522,2.522,0,0,1,2.344,64h7.813A2.522,2.522,0,0,1,12.5,66.656v68.177ZM37.5,125.094V109.156a2.522,2.522,0,0,0-2.344-2.656H27.344A2.522,2.522,0,0,0,25,109.156v15.937a2.522,2.522,0,0,0,2.344,2.656h7.813A2.522,2.522,0,0,0,37.5,125.094Zm37.5,0V94.99a2.522,2.522,0,0,0-2.344-2.656H64.844A2.522,2.522,0,0,0,62.5,94.99v30.1a2.522,2.522,0,0,0,2.344,2.656h7.812A2.522,2.522,0,0,0,75,125.094Zm-18.75,0V80.823a2.522,2.522,0,0,0-2.344-2.656H46.094a2.522,2.522,0,0,0-2.344,2.656v44.271a2.522,2.522,0,0,0,2.344,2.656h7.812A2.522,2.522,0,0,0,56.25,125.094Zm37.5,0V73.74a2.522,2.522,0,0,0-2.344-2.656H83.594A2.522,2.522,0,0,0,81.25,73.74v51.354a2.522,2.522,0,0,0,2.344,2.656h7.812A2.522,2.522,0,0,0,93.75,125.094Z" transform="translate(11947 384)"/>
+    <g id="LoginAM_logo_only" data-name="LoginAM_logo only" transform="translate(11199 -77.3)">
+      <ellipse id="Ellipse_3472" data-name="Ellipse 3472" class="cls-11" cx="14.995" cy="15" rx="14.995" ry="15" transform="translate(2 2.3)"/>
+      <path id="Path_16379" data-name="Path 16379" class="cls-7" d="M16.995,2.3A15,15,0,0,0,2,17.274a15.213,15.213,0,0,0,.231,2.573l8.783-11.1a.466.466,0,0,1,.376-.173h2.918a.453.453,0,0,1,.4.26l4.565,11.043L23.842,8.833a.409.409,0,0,1,.4-.26h2.86a.444.444,0,0,1,.433.434V23.316a.444.444,0,0,1-.433.434H25.113a.444.444,0,0,1-.433-.434V13.545l-4.1,9.973a.409.409,0,0,1-.4.26H18.382a.453.453,0,0,1-.4-.26l-4.1-9.973v9.8a.444.444,0,0,1-.433.434H11.448a.444.444,0,0,1-.433-.434V12.793l-3.38,4.249h2.658a.444.444,0,0,1,.433.434v1.5a.444.444,0,0,1-.433.434H5.756L3.04,22.824A15.013,15.013,0,1,0,16.995,2.3Z" transform="translate(0 0)"/>
+    </g>
+    <g id="Group_5794" data-name="Group 5794" transform="translate(11153 -86)">
+      <path id="Union_604" data-name="Union 604" class="cls-2" d="M12733.79,15598l-9.759-12.582V15598h-1.53v-15h1.706l9.76,12.581V15583h1.534v15Zm-15.791,0v-15h1.5v15Zm-17-7.5a7.6,7.6,0,0,1,7.919-7.5,8.4,8.4,0,0,1,5.426,1.973l-1.006,1.026a6.84,6.84,0,0,0-4.42-1.625,6.209,6.209,0,0,0-6.342,6.126,6.13,6.13,0,0,0,6.256,6.088,7.2,7.2,0,0,0,4.682-1.633v-3.512h-4.639v-1.115H12715v5.445a9.506,9.506,0,0,1-6.169,2.228A7.658,7.658,0,0,1,12701,15590.5Zm-17,0a7.5,7.5,0,1,1,7.5,7.5A7.485,7.485,0,0,1,12684,15590.5Zm1.507,0a5.992,5.992,0,1,0,5.989-6.087A6,6,0,0,0,12685.508,15590.5ZM12672,15598v-15h1.53v13.592H12682V15598Z" transform="translate(-12573.996 -15570)"/>
+      <text id="group-2" data-name="group" class="cls-12" transform="translate(98.004 37.999)"><tspan x="0" y="0">Home page</tspan></text>
+      <path id="Path_16387" data-name="Path 16387" class="cls-2" d="M453.527,372.41l-1.372-3.309h-6.928l-1.369,3.309H440.55l6.313-15H450.5l6.349,15Zm-2.136-5.539-2.712-6.38-2.689,6.38Z" transform="translate(-271.55 -344.41)"/>
+      <path id="Path_16388" data-name="Path 16388" class="cls-2" d="M512.823,372.41V361.093l-5.672,9.56h-1.025l-5.675-9.563v11.317H497.71v-15h3.677l5.248,8.759,5.252-8.759h3.677v15Z" transform="translate(-309.807 -344.41)"/>
+    </g>
+    <text id="DASHBOARD-7" data-name="DASHBOARD" class="cls-13" transform="translate(12932 -53)"><tspan x="0" y="0">Sonny Puijk</tspan></text>
+    <path id="chart-line" class="cls-10" d="M97.656,134.833A2.522,2.522,0,0,1,100,137.49v8.854A2.522,2.522,0,0,1,97.656,149H2.344A2.522,2.522,0,0,1,0,146.344V66.656A2.522,2.522,0,0,1,2.344,64h7.813A2.522,2.522,0,0,1,12.5,66.656v68.177Zm-8.594-63.75H67.188c-4.18,0-6.27,5.733-3.32,9.076l6.426,7.283L56.23,103.578,45.371,91.271a2.136,2.136,0,0,0-3.3,0L18.828,117.346a2.909,2.909,0,0,0-.039,3.741l5.566,6.508a2.148,2.148,0,0,0,3.34.022L43.73,109.444l10.84,12.285a2.156,2.156,0,0,0,3.32,0L79.219,97.557l6.523,7.393c2.949,3.342,8.008.974,8.008-3.763V76.4C93.75,73.452,91.66,71.083,89.062,71.083Z" transform="translate(11947 152)"/>
+    <g id="ic_arrow_drop_up_1" transform="translate(11430.834 61)">
+      <path id="path-2" data-name="path" class="cls-14" d="M79,23l5,5,5-5Z" transform="translate(40.167 45)"/>
+      <rect id="rectangle" class="cls-15" width="24" height="24" transform="translate(112.167 58)"/>
+    </g>
+    <g id="Group_5798" data-name="Group 5798" transform="translate(11385 -84)">
+      <g class="cls-32" transform="matrix(1, 0, 0, 1, -11385, 84)">
+        <rect id="ui_card_light-16" data-name="ui card light" class="cls-2" width="226" height="226" rx="2" transform="translate(11598 145)"/>
+      </g>
+      <text id="DASHBOARD-8" data-name="DASHBOARD" class="cls-3" transform="translate(233 262)"><tspan x="0" y="0">IMAGE MANAGEMENT</tspan></text>
+      <path id="Union_622" data-name="Union 622" class="cls-10" d="M-9152.828,139.357l20.307-54.287a2.923,2.923,0,0,1,4.653-.219l19.955,24.818,19.813-12.333a2.912,2.912,0,0,1,4.07,1.025l21.03,40.995ZM-9153,68.78a9.462,9.462,0,0,1,9.5-9.423,9.462,9.462,0,0,1,9.5,9.423,9.464,9.464,0,0,1-9.5,9.425A9.464,9.464,0,0,1-9153,68.78Z" transform="translate(9434.001 242.643)"/>
+    </g>
+    <g class="cls-31" transform="matrix(1, 0, 0, 1, 0, 0)">
+      <rect id="ui_card_light-17" data-name="ui card light" class="cls-2" width="226" height="226" rx="2" transform="translate(11366 145)"/>
+    </g>
+    <text id="DASHBOARD-9" data-name="DASHBOARD" class="cls-3" transform="translate(11386 178)"><tspan x="0" y="0">DASHBOARD</tspan></text>
+    <path id="Union_624" data-name="Union 624" class="cls-16" d="M-7126.625,1235a9.244,9.244,0,0,1-9.375-9.107v-66.785a9.245,9.245,0,0,1,9.375-9.109h81.25a9.245,9.245,0,0,1,9.375,9.109v66.785a9.243,9.243,0,0,1-9.375,9.107Zm46.875-12.142h31.25v-18.214h-31.25Zm-43.75,0h31.25v-18.214h-31.25Zm43.75-30.358h31.25v-18.214h-31.25Zm-43.75,0h31.25v-18.214h-31.25Zm49.979,27.906a.466.466,0,0,1-.479-.449v-13.505a.467.467,0,0,1,.479-.451h1.594a.467.467,0,0,1,.478.451V1218h17.377a.467.467,0,0,1,.479.451v1.5a.467.467,0,0,1-.479.449Zm-42.083,0a.427.427,0,0,1-.4-.449v-13.505a.429.429,0,0,1,.4-.451h1.325a.428.428,0,0,1,.4.451V1218h14.433a.428.428,0,0,1,.4.451v1.5a.427.427,0,0,1-.4.449Zm45.43-3.6v-3.9l3.46-5.428a.5.5,0,0,1,.793-.038l3.4,4.264,3.376-2.119a.493.493,0,0,1,.693.176l3.583,7.045Zm-31.66,0a.427.427,0,0,1-.4-.45v-8.7a.427.427,0,0,1,.4-.449h1.323a.427.427,0,0,1,.4.449v8.7a.428.428,0,0,1-.4.45Zm-3.177,0a.427.427,0,0,1-.4-.45v-5.1a.427.427,0,0,1,.4-.45h1.324a.427.427,0,0,1,.4.45v5.1a.427.427,0,0,1-.4.45Zm-3.177,0a.428.428,0,0,1-.4-.45v-7.5a.428.428,0,0,1,.4-.45h1.323a.427.427,0,0,1,.4.45v7.5a.427.427,0,0,1-.4.45Zm-3.179,0a.427.427,0,0,1-.4-.45v-2.7a.427.427,0,0,1,.4-.45h1.326a.427.427,0,0,1,.4.45v2.7a.427.427,0,0,1-.4.45Zm-4.241-25.558a1.675,1.675,0,0,1-1.479-.892,9.99,9.99,0,0,1-1.159-4.685,10.036,10.036,0,0,1,10.036-10.036,10.038,10.038,0,0,1,10.038,10.036,9.99,9.99,0,0,1-1.159,4.685,1.675,1.675,0,0,1-1.479.892Zm9.108-11.678-1.9,6.111a2.23,2.23,0,0,0-2.043,2.223,2.23,2.23,0,0,0,2.23,2.23,2.231,2.231,0,0,0,2.231-2.23,2.236,2.236,0,0,0-.818-1.728l1.9-6.11a.837.837,0,0,0-.552-1.046.831.831,0,0,0-.249-.038A.839.839,0,0,0-7106.5,1179.567Zm32.978,11.433a.455.455,0,0,1-.479-.426v-12.753a.456.456,0,0,1,.479-.426h1.594a.455.455,0,0,1,.478.426v10.912h17.377a.455.455,0,0,1,.479.424v1.417a.457.457,0,0,1-.479.426Zm4.491-3.426-1.135-1.042a.39.39,0,0,1,.007-.6l4.744-4.175a.516.516,0,0,1,.673,0l2.215,1.97,2.869-2.583-1.311-1.166a.843.843,0,0,1,.679-1.452h4.463a.906.906,0,0,1,.956.851v3.969a.976.976,0,0,1-1.633.6l-1.331-1.184-4.354,3.87a.526.526,0,0,1-.677,0l-2.211-1.966-3.272,2.908a.5.5,0,0,1-.337.126A.515.515,0,0,1-7069.03,1187.574Z" transform="translate(18565 -934)"/>
+    <text id="DASHBOARD-10" data-name="DASHBOARD" class="cls-4" transform="translate(11366 139)"><tspan x="0" y="0">ENVIRONMENT:</tspan></text>
+    <g class="cls-30" transform="matrix(1, 0, 0, 1, 0, 0)">
+      <rect id="ui_card_light-18" data-name="ui card light" class="cls-2" width="226" height="226" rx="2" transform="translate(12402 145)"/>
+    </g>
+    <g class="cls-29" transform="matrix(1, 0, 0, 1, 0, 0)">
+      <rect id="ui_card_light-19" data-name="ui card light" class="cls-2" width="226" height="226" rx="2" transform="translate(12402 377)"/>
+    </g>
+    <g class="cls-28" transform="matrix(1, 0, 0, 1, 0, 0)">
+      <rect id="ui_card_light-20" data-name="ui card light" class="cls-2" width="226" height="226" rx="2" transform="translate(12402 609)"/>
+    </g>
+    <text id="DASHBOARD-11" data-name="DASHBOARD" class="cls-3" transform="translate(12422 410)"><tspan x="0" y="0">REMOTE SERVERS</tspan></text>
+    <text id="DASHBOARD-12" data-name="DASHBOARD" class="cls-3" transform="translate(12422 642)"><tspan x="0" y="0">ACCOUNT MANAGEMENT</tspan></text>
+    <text id="DASHBOARD-13" data-name="DASHBOARD" class="cls-3" transform="translate(12420 178)"><tspan x="0" y="0">COMPARE ENVIRONMENTS</tspan></text>
+    <path id="id-card" class="cls-10" d="M90.625,149H9.375C4.2,149,0,144.243,0,138.375V74.625C0,68.757,4.2,64,9.375,64h81.25C95.8,64,100,68.757,100,74.625v63.75C100,144.243,95.8,149,90.625,149ZM31.25,85.25c-6.9,0-12.5,6.343-12.5,14.167s5.6,14.167,12.5,14.167,12.5-6.343,12.5-14.167-5.6-14.167-12.5-14.167m15.545,34.206-5.524-2.087a16.876,16.876,0,0,1-20.042,0l-5.524,2.087A5.3,5.3,0,0,0,12.5,124.5v5.025c0,2.934,2.1,5.313,4.688,5.313H45.313c2.589,0,4.688-2.378,4.688-5.312V124.5a5.3,5.3,0,0,0-3.205-5.04ZM87.5,125.094v-1.771a2.515,2.515,0,0,0-2.344-2.656H58.594a2.515,2.515,0,0,0-2.344,2.656v1.771a2.515,2.515,0,0,0,2.344,2.656H85.156A2.515,2.515,0,0,0,87.5,125.094Zm0-14.167v-1.771a2.515,2.515,0,0,0-2.344-2.656H58.594a2.515,2.515,0,0,0-2.344,2.656v1.771a2.515,2.515,0,0,0,2.344,2.656H85.156A2.515,2.515,0,0,0,87.5,110.927Zm0-14.167V94.99a2.515,2.515,0,0,0-2.344-2.656H58.594A2.515,2.515,0,0,0,56.25,94.99V96.76a2.515,2.515,0,0,0,2.344,2.656H85.156A2.515,2.515,0,0,0,87.5,96.76Zm6.25-21.25V73.74a2.515,2.515,0,0,0-2.344-2.656H8.594A2.515,2.515,0,0,0,6.25,73.74V75.51a2.515,2.515,0,0,0,2.344,2.656H91.406A2.515,2.515,0,0,0,93.75,75.51Z" transform="translate(12465 616)"/>
+    <path id="Union_664" data-name="Union 664" class="cls-17" d="M-9153.625,169a9.244,9.244,0,0,1-9.376-9.109V93.107A9.244,9.244,0,0,1-9153.625,84h81.25A9.243,9.243,0,0,1-9063,93.107v66.785a9.244,9.244,0,0,1-9.375,9.109Zm46.875-12.144h31.25v-48.57h-31.25Zm-43.75,0h31.25v-48.57h-31.25Zm56.285-17.065a2.31,2.31,0,0,1,1.863-2.265v-2.3a.45.45,0,0,1,.448-.448.449.449,0,0,1,.446.448v2.3a2.32,2.32,0,0,1,1.862,2.265,2.312,2.312,0,0,1-2.315,2.3A2.309,2.309,0,0,1-9094.215,139.791Zm-42,0a2.31,2.31,0,0,1,1.863-2.265v-2.3a.45.45,0,0,1,.448-.448.449.449,0,0,1,.446.448v2.3a2.318,2.318,0,0,1,1.862,2.265,2.312,2.312,0,0,1-2.315,2.3A2.309,2.309,0,0,1-9136.215,139.791Zm52.155.315a.443.443,0,0,1-.134-.315.443.443,0,0,1,.134-.315.448.448,0,0,1,.315-.133.455.455,0,0,1,.314.133.451.451,0,0,1,.134.315.451.451,0,0,1-.134.315.455.455,0,0,1-.314.133A.448.448,0,0,1-9084.06,140.106Zm-1.711-.315a.453.453,0,0,1,.451-.448.448.448,0,0,1,.448.448.447.447,0,0,1-.448.448A.453.453,0,0,1-9085.771,139.791Zm-1.568,0a.449.449,0,0,1,.446-.448.446.446,0,0,1,.448.448.447.447,0,0,1-.448.448A.446.446,0,0,1-9087.339,139.791Zm-1.573,0a.447.447,0,0,1,.444-.448.447.447,0,0,1,.448.448.447.447,0,0,1-.448.448A.447.447,0,0,1-9088.912,139.791Zm-6.873,0a.45.45,0,0,1,.448-.448.45.45,0,0,1,.448.448.447.447,0,0,1-.448.448A.45.45,0,0,1-9095.785,139.791Zm-1.57,0a.453.453,0,0,1,.448-.448.448.448,0,0,1,.448.448.447.447,0,0,1-.448.448A.45.45,0,0,1-9097.355,139.791Zm-1.575,0a.448.448,0,0,1,.445-.448.447.447,0,0,1,.449.448.448.448,0,0,1-.449.448A.448.448,0,0,1-9098.931,139.791Zm-1.444.315a.468.468,0,0,1-.129-.315.447.447,0,0,1,.129-.315.486.486,0,0,1,.314-.133.448.448,0,0,1,.315.133.443.443,0,0,1,.134.315.443.443,0,0,1-.134.315.448.448,0,0,1-.315.133A.455.455,0,0,1-9100.375,140.106Zm-25.685,0a.443.443,0,0,1-.134-.315.443.443,0,0,1,.134-.315.448.448,0,0,1,.315-.133.455.455,0,0,1,.314.133.451.451,0,0,1,.134.315.451.451,0,0,1-.134.315.455.455,0,0,1-.314.133A.448.448,0,0,1-9126.06,140.106Zm-1.711-.315a.453.453,0,0,1,.451-.448.448.448,0,0,1,.448.448.447.447,0,0,1-.448.448A.453.453,0,0,1-9127.771,139.791Zm-1.568,0a.449.449,0,0,1,.446-.448.446.446,0,0,1,.448.448.447.447,0,0,1-.448.448A.446.446,0,0,1-9129.339,139.791Zm-1.573,0a.447.447,0,0,1,.444-.448.448.448,0,0,1,.448.448.447.447,0,0,1-.448.448A.447.447,0,0,1-9130.912,139.791Zm-6.873,0a.45.45,0,0,1,.448-.448.45.45,0,0,1,.448.448.447.447,0,0,1-.448.448A.45.45,0,0,1-9137.785,139.791Zm-1.57,0a.453.453,0,0,1,.448-.448.448.448,0,0,1,.448.448.447.447,0,0,1-.448.448A.45.45,0,0,1-9139.355,139.791Zm-1.576,0a.449.449,0,0,1,.446-.448.446.446,0,0,1,.448.448.447.447,0,0,1-.448.448A.449.449,0,0,1-9140.932,139.791Zm-1.443.315a.467.467,0,0,1-.127-.315.445.445,0,0,1,.127-.315.486.486,0,0,1,.314-.133.448.448,0,0,1,.315.133.442.442,0,0,1,.133.315.442.442,0,0,1-.133.315.448.448,0,0,1-.315.133A.455.455,0,0,1-9142.375,140.106Zm55.844-7.239h-11.342a4.606,4.606,0,0,1-4.128-4.574,4.376,4.376,0,0,1,1.862-3.571,3.221,3.221,0,0,1-.085-.72,3.113,3.113,0,0,1,3.109-3.107,3.169,3.169,0,0,1,.679.074,5.8,5.8,0,0,1,5.052-2.969,5.75,5.75,0,0,1,5.708,4.891,5.09,5.09,0,0,1,3.782,4.928,5.1,5.1,0,0,1-1.336,3.433,4.9,4.9,0,0,1-3.272,1.614Zm-42,0h-11.342a4.6,4.6,0,0,1-4.126-4.574,4.374,4.374,0,0,1,1.86-3.571,3.221,3.221,0,0,1-.085-.72,3.112,3.112,0,0,1,3.109-3.107,3.153,3.153,0,0,1,.678.074,5.8,5.8,0,0,1,5.053-2.969,5.751,5.751,0,0,1,5.708,4.891,5.09,5.09,0,0,1,3.782,4.928,5.1,5.1,0,0,1-1.336,3.433,4.9,4.9,0,0,1-3.272,1.614Z" transform="translate(21628 131)"/>
+    <path id="server" class="cls-18" d="M93.75,56.286H6.25A6.163,6.163,0,0,1,0,50.214V38.071A6.163,6.163,0,0,1,6.25,32h87.5A6.163,6.163,0,0,1,100,38.071V50.214A6.163,6.163,0,0,1,93.75,56.286Zm-9.375-16.7a4.555,4.555,0,1,0,4.688,4.554A4.622,4.622,0,0,0,84.375,39.589Zm-12.5,0a4.555,4.555,0,1,0,4.688,4.554A4.622,4.622,0,0,0,71.875,39.589ZM93.75,86.643H6.25A6.163,6.163,0,0,1,0,80.571V68.429a6.163,6.163,0,0,1,6.25-6.071h87.5A6.163,6.163,0,0,1,100,68.429V80.571A6.163,6.163,0,0,1,93.75,86.643Zm-9.375-16.7A4.555,4.555,0,1,0,89.063,74.5,4.622,4.622,0,0,0,84.375,69.946Zm-12.5,0A4.555,4.555,0,1,0,76.563,74.5,4.622,4.622,0,0,0,71.875,69.946ZM93.75,117H6.25A6.163,6.163,0,0,1,0,110.929V98.786a6.163,6.163,0,0,1,6.25-6.071h87.5A6.163,6.163,0,0,1,100,98.786v12.143A6.163,6.163,0,0,1,93.75,117Zm-9.375-16.7a4.555,4.555,0,1,0,4.688,4.554A4.622,4.622,0,0,0,84.375,100.3Zm-12.5,0a4.555,4.555,0,1,0,4.688,4.554A4.622,4.622,0,0,0,71.875,100.3Z" transform="translate(12465 416)"/>
+    <g id="Group_5877" data-name="Group 5877" transform="translate(11153 -316)">
+      <g class="cls-27" transform="matrix(1, 0, 0, 1, -11153, 316)">
+        <rect id="ui_card_light-21" data-name="ui card light" class="cls-2" width="226" height="226" rx="2" transform="translate(12634 145)"/>
+      </g>
+      <text id="DASHBOARD-14" data-name="DASHBOARD" class="cls-3" transform="translate(1499 494)"><tspan x="0" y="0">ENVIRONMENT MANAGER</tspan></text>
+      <path id="Union_636" data-name="Union 636" class="cls-10" d="M-7093.534,2858.87a8.146,8.146,0,0,1,6.566-7.99v-8.1a1.586,1.586,0,0,1,1.582-1.58,1.586,1.586,0,0,1,1.58,1.58v8.1a8.176,8.176,0,0,1,6.566,7.99A8.159,8.159,0,0,1-7085.4,2867,8.141,8.141,0,0,1-7093.534,2858.87Zm35.82,1.112a1.581,1.581,0,0,1-.468-1.112,1.58,1.58,0,0,1,.468-1.112,1.581,1.581,0,0,1,1.111-.47,1.583,1.583,0,0,1,1.112.47,1.581,1.581,0,0,1,.47,1.112,1.582,1.582,0,0,1-.47,1.112,1.582,1.582,0,0,1-1.112.47A1.58,1.58,0,0,1-7057.714,2859.981Zm-6.028-1.112a1.588,1.588,0,0,1,1.582-1.582,1.576,1.576,0,0,1,1.582,1.582,1.576,1.576,0,0,1-1.582,1.582A1.588,1.588,0,0,1-7063.742,2858.87Zm-5.542,0a1.588,1.588,0,0,1,1.582-1.582,1.578,1.578,0,0,1,1.582,1.582,1.577,1.577,0,0,1-1.582,1.582A1.577,1.577,0,0,1-7069.284,2858.87Zm-5.542,0a1.573,1.573,0,0,1,1.563-1.582,1.575,1.575,0,0,1,1.58,1.582,1.575,1.575,0,0,1-1.58,1.582A1.572,1.572,0,0,1-7074.826,2858.87Zm-24.25,0a1.588,1.588,0,0,1,1.582-1.582,1.587,1.587,0,0,1,1.58,1.582,1.575,1.575,0,0,1-1.58,1.582A1.588,1.588,0,0,1-7099.076,2858.87Zm-5.542,0a1.6,1.6,0,0,1,1.58-1.582,1.577,1.577,0,0,1,1.582,1.582,1.576,1.576,0,0,1-1.582,1.582A1.587,1.587,0,0,1-7104.618,2858.87Zm-5.56,0a1.587,1.587,0,0,1,1.58-1.582,1.577,1.577,0,0,1,1.582,1.582,1.577,1.577,0,0,1-1.582,1.582A1.587,1.587,0,0,1-7110.177,2858.87Zm-5.09,1.112a1.645,1.645,0,0,1-.452-1.112,1.564,1.564,0,0,1,.452-1.112,1.7,1.7,0,0,1,1.112-.47,1.579,1.579,0,0,1,1.111.47,1.573,1.573,0,0,1,.47,1.112,1.574,1.574,0,0,1-.47,1.112,1.579,1.579,0,0,1-1.111.47A1.586,1.586,0,0,1-7115.267,2859.981Zm48.832-25.536h-40.006c-7.869-.434-14.541-7.817-14.558-16.138a15.408,15.408,0,0,1,6.567-12.594,11.157,11.157,0,0,1-.3-2.538,10.973,10.973,0,0,1,10.962-10.96,11.053,11.053,0,0,1,2.4.259A20.469,20.469,0,0,1-7083.545,2782a20.287,20.287,0,0,1,20.134,17.25,17.972,17.972,0,0,1,13.341,17.391,17.989,17.989,0,0,1-4.708,12.108,17.289,17.289,0,0,1-11.552,5.7Z" transform="translate(8680 -2251)"/>
+    </g>
+    <g id="Group_5878" data-name="Group 5878" transform="translate(11153 148)">
+      <g class="cls-26" transform="matrix(1, 0, 0, 1, -11153, -148)">
+        <rect id="ui_card_light-22" data-name="ui card light" class="cls-2" width="226" height="226" rx="2" transform="translate(12634 377)"/>
+      </g>
+      <text id="DASHBOARD-15" data-name="DASHBOARD" class="cls-3" transform="translate(1499 262)"><tspan x="0" y="0">DATA HOUSEKEEPING</tspan></text>
+      <path id="file-alt" class="cls-19" d="M37.333,22.578V0H4A3.983,3.983,0,0,0,0,3.984V81.016A3.983,3.983,0,0,0,4,85H60a3.983,3.983,0,0,0,4-3.984V26.563H41.333A4,4,0,0,1,37.333,22.578ZM48,61.758a2,2,0,0,1-2,1.992H18a2,2,0,0,1-2-1.992V60.43a2,2,0,0,1,2-1.992H46a2,2,0,0,1,2,1.992Zm0-10.625a2,2,0,0,1-2,1.992H18a2,2,0,0,1-2-1.992V49.8a2,2,0,0,1,2-1.992H46A2,2,0,0,1,48,49.8ZM48,39.18v1.328A2,2,0,0,1,46,42.5H18a2,2,0,0,1-2-1.992V39.18a2,2,0,0,1,2-1.992H46A2,2,0,0,1,48,39.18ZM64,20.237V21.25H42.667V0h1.017a4.005,4.005,0,0,1,2.833,1.162l16.317,16.27A3.964,3.964,0,0,1,64,20.237Z" transform="translate(1562 300)"/>
+    </g>
+    <g id="Group_5879" data-name="Group 5879" transform="translate(11385 380)">
+      <g class="cls-25" transform="matrix(1, 0, 0, 1, -11385, -380)">
+        <rect id="ui_card_light-23" data-name="ui card light" class="cls-2" width="226" height="113" rx="2" transform="translate(12634 609)"/>
+      </g>
+      <text id="DASHBOARD-16" data-name="DASHBOARD" class="cls-3" transform="translate(1267 262)"><tspan x="0" y="0">LICENSE MANAGER</tspan></text>
+      <g class="cls-24" transform="matrix(1, 0, 0, 1, -11385, -380)">
+        <rect id="ui_card_light-24" data-name="ui card light" class="cls-2" width="226" height="110" rx="2" transform="translate(12634 725)"/>
+      </g>
+      <text id="DASHBOARD-17" data-name="DASHBOARD" class="cls-3" transform="translate(1267 378)"><tspan x="0" y="0">ABOUT</tspan></text>
+      <path id="key" class="cls-10" d="M30,10.313A10.318,10.318,0,0,1,17.764,20.445l-1.407,1.583a1.406,1.406,0,0,1-1.051.472H13.125v2.344a1.406,1.406,0,0,1-1.406,1.406H9.375v2.344A1.406,1.406,0,0,1,7.969,30H1.406A1.406,1.406,0,0,1,0,28.594V24.02a1.407,1.407,0,0,1,.412-.994l9.481-9.481A10.313,10.313,0,1,1,30,10.313ZM19.687,7.5A2.812,2.812,0,1,0,22.5,4.687,2.812,2.812,0,0,0,19.687,7.5Z" transform="translate(1425 271)"/>
+      <path id="question-circle" class="cls-20" d="M38,23A15,15,0,1,1,23,8,15,15,0,0,1,38,23ZM23.4,12.96a7.834,7.834,0,0,0-7.049,3.856.727.727,0,0,0,.164.983l2.1,1.591a.726.726,0,0,0,1.008-.128c1.08-1.37,1.821-2.165,3.466-2.165,1.236,0,2.764.8,2.764,1.993,0,.906-.748,1.371-1.968,2.055-1.423.8-3.306,1.79-3.306,4.274v.242a.726.726,0,0,0,.726.726h3.387a.726.726,0,0,0,.726-.726v-.081c0-1.721,5.031-1.793,5.031-6.452C30.451,15.621,26.812,12.96,23.4,12.96Zm-.4,15a2.782,2.782,0,1,0,2.782,2.782A2.785,2.785,0,0,0,23,27.96Z" transform="translate(1417 377)"/>
+    </g>
+    <path id="users" class="cls-21" d="M34.375,80.146A15.892,15.892,0,0,1,50,64a16.155,16.155,0,0,1,0,32.292A15.892,15.892,0,0,1,34.375,80.146ZM7.5,87.25A12.713,12.713,0,0,1,20,74.333a12.924,12.924,0,0,1,0,25.833A12.713,12.713,0,0,1,7.5,87.25Zm60,0A12.507,12.507,0,1,1,80,100.167,12.713,12.713,0,0,1,67.5,87.25ZM64.063,99.521A11.124,11.124,0,0,1,75,110.823v11.3A3.814,3.814,0,0,1,71.25,126H28.75A3.814,3.814,0,0,1,25,122.125v-11.3a11.124,11.124,0,0,1,10.938-11.3h2.789a21.279,21.279,0,0,0,22.548,0h2.789M20,110.823a16.887,16.887,0,0,1,.92-5.515,17.047,17.047,0,0,1-9.939-2.558H8.75A8.9,8.9,0,0,0,0,111.792v5.167a3.814,3.814,0,0,0,3.75,3.875H20Zm71.25-8.073H89.019a17.046,17.046,0,0,1-9.939,2.558,16.887,16.887,0,0,1,.92,5.515v10.01H96.25a3.814,3.814,0,0,0,3.75-3.875v-5.167A8.9,8.9,0,0,0,91.25,102.75Z" transform="translate(12177 163)"/>
+  </g>
+</svg>

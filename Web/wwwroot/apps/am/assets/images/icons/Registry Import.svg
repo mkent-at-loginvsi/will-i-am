@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 19 18">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #616161;
+      }
+    </style>
+  </defs>
+  <g id="_002-registry" data-name="002-registry" transform="translate(0 -12.782)">
+    <path id="Path_16720" data-name="Path 16720" class="cls-1" d="M0,24.678H6.086v6.1H0Zm8,6.1h6.086v-6.1H8ZM.115,22.874H6.2v-6.1H.115ZM13.392,16.06l-2.123-3.278L8,14.911l2.123,3.278ZM9.025,21.075l2.923,2.586,2.578-2.932L11.6,18.143Zm7.932-6.428L13.638,16.7l2.043,3.329L19,17.976Z"/>
+  </g>
+</svg>

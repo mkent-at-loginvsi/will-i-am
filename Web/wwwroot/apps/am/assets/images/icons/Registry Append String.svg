@@ -1,0 +1,13 @@
+<svg id="Group_6499" data-name="Group 6499" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 18">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #616161;
+        stroke-width: 2px;
+      }
+    </style>
+  </defs>
+  <line id="Line_356" data-name="Line 356" class="cls-1" y2="18" transform="translate(9)"/>
+  <line id="Line_357" data-name="Line 357" class="cls-1" y2="18" transform="translate(18 9) rotate(90)"/>
+</svg>

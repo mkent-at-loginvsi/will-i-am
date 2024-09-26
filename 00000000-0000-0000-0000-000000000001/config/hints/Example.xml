@@ -1,0 +1,12 @@
+<HintDefinitions>
+	<HintDefinition>
+	<!-- Exceptions can be the full name of the excpetion type -->
+		<Exception>System.IO.FileNotFoundException</Exception>
+		<Hint>System could not find the file</Hint>
+	</HintDefinition>
+	<HintDefinition>
+	<!-- In case of System.Runtime.InteropServices.COMExceptions, the exception is translated to the ErrorCode (in hex) -->
+		<Exception>0x800706BA</Exception>
+		<Hint>Make sure that the target computer is on and the connection not blocked by a firewall.</Hint>
+	</HintDefinition>
+</HintDefinitions>

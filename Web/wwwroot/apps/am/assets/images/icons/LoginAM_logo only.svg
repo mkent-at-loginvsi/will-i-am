@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="9210 -76 31.989 32">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        stroke: #fff;
+        stroke-miterlimit: 10;
+        stroke-width: 2px;
+      }
+
+      .cls-2 {
+        fill: #0f73a5;
+      }
+    </style>
+  </defs>
+  <g id="LoginAM_logo_only" data-name="LoginAM_logo only" transform="translate(9209 -77.3)">
+    <ellipse id="Ellipse_3472" data-name="Ellipse 3472" class="cls-1" cx="14.995" cy="15" rx="14.995" ry="15" transform="translate(2 2.3)"/>
+    <path id="Path_16379" data-name="Path 16379" class="cls-2" d="M16.995,2.3A15,15,0,0,0,2,17.274a15.213,15.213,0,0,0,.231,2.573l8.783-11.1a.466.466,0,0,1,.376-.173h2.918a.453.453,0,0,1,.4.26l4.565,11.043L23.842,8.833a.409.409,0,0,1,.4-.26h2.86a.444.444,0,0,1,.433.434V23.316a.444.444,0,0,1-.433.434H25.113a.444.444,0,0,1-.433-.434V13.545l-4.1,9.973a.409.409,0,0,1-.4.26H18.382a.453.453,0,0,1-.4-.26l-4.1-9.973v9.8a.444.444,0,0,1-.433.434H11.448a.444.444,0,0,1-.433-.434V12.793l-3.38,4.249h2.658a.444.444,0,0,1,.433.434v1.5a.444.444,0,0,1-.433.434H5.756L3.04,22.824A15.013,15.013,0,1,0,16.995,2.3Z" transform="translate(0 0)"/>
+  </g>
+</svg>
